@@ -10,6 +10,8 @@ I started programming at college in Java and also learned Matlab. After that I d
 * ✉️  You can contact me at [miguel.delgado.tic1@gmail.com](mailto:miguel.delgado.tic1@gmail.com)
 * 🧠  I'm learning ssr, next.js and styled components
 
+<img src="https://www.codewars.com/users/mdelgado333/badges/large" alt="Codewars"/>
+
 ### Skills
 
 <p align="left">
