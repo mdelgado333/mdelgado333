@@ -8,7 +8,7 @@ I started programming at college in Java and also learned Matlab. After that I d
 
 * 🌍  I'm based in Madrid
 * ✉️  You can contact me at [miguel.delgado.tic1@gmail.com](mailto:miguel.delgado.tic1@gmail.com)
-* 🧠  I'm learning ssr, next.js and styled components
+* 🧠  I'm currently learning ssr, next.js, styled components and Jest
 
 <img src="https://www.codewars.com/users/mdelgado333/badges/large" alt="Codewars"/>
 
